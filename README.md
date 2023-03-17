@@ -6,15 +6,6 @@ John Virtual Card is a design of a virtual card for John Doe, a fictional charac
 
 These instructions will allow you to get a working copy of the project on your local machine for development and testing purposes.
 
-### 📋 Prerequisites
-
-To run the application it is necessary to have the following software installed on the machine:
-
-```
-# Open a terminal and copy this repository with the command
-$ git clone (https://github.com/antonioalexandre1984/buzzvel.git)
-```
-
 ## ⚙️ installation
 ```
 # Open a terminal and copy this repository with the command
@@ -35,27 +26,37 @@ $ yarn dev
 
 ## ⚙️ About the tests
 
-Explicar como executar os testes automatizados para este sistema.
+About the tests we perform unit tests as described below.
 
-### 🔩 Analise os testes de ponta a ponta
+* The first test, "should update name and validation state when invalid input is provided", checks whether the component updates the validation state of the name when invalid input is provided. The provided context has the isNameValid state set to false, simulating an invalid input, and it is expected that when the user enters "john" in the name field, the component updates the name state to "john" and displays the error message "Please enter a valid name".
 
-Explique que eles verificam esses testes e porquê.
+* The second test, "should update Github user and validation state when invalid input is provided", checks whether the component updates the validation state of the Github user when invalid input is provided. The provided context has the isGithubValid state set to false, simulating an invalid input, and it is expected that when the user enters "john" in the Github user field, the component updates the Github user state to "john" and displays the error message "Please enter a valid Github username".
 
-```
-Dar exemplos
-```
+* The third test, "should update Linkedin user and validation state when valid input is provided", checks whether the component updates the validation state of the Linkedin user when valid input is provided. The provided context has the isLinkedinValid state set to false, simulating a valid input, and it is expected that when the user enters "john" in the Linkedin user field, the component updates the Linkedin user state to "john" and does not display the error message "Please enter a valid Linkedin username".
 
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
+### 🔩 Procedure for carrying out the tests
 
 ```
-Dar exemplos
+# Access the application folder
+$ cd buzzvel
+
+# install the dependencies
+$ yarn
+
+# Start the tests
+$ yarn test
+
 ```
 
-## 📦 Implantação
+### ⌨️ About coding style
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+For the visual style of the project, we chose to use the tailwind css given its visual quality of the components and significant improvement in the amount of code produced.
+
+## 📦 Project Online
+
+As suggested in the project. We publish the project online at the address below.
+
+https://buzzvel.netlify.app/
 
 ## 🛠️ Built with
 
