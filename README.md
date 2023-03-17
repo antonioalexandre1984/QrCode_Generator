@@ -16,27 +16,25 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 Dar exemplos
 ```
 
-## ⚙️ Instalação
+## ⚙️ installation
 ```
-# Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/antonioalexandre1984/Ignite_CoffeeDelivery.git
+# Open a terminal and copy this repository with the command
+$ git clone (https://github.com/antonioalexandre1984/buzzvel.git)
 ```
 
 ```
-# Acesse a pasta da aplicação
-$ cd Ignite_CoffeeDelivery
+# Access the application folder
+$ cd buzzvel
 
-# Instale as dependências
+# install the dependencies
 $ yarn
 
-# Inicie a aplicação
-$ yarn start
+# Start the application
+$ yarn dev
 
 ```
 
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
-## ⚙️ Executando os testes
+## ⚙️ About the tests
 
 Explicar como executar os testes automatizados para este sistema.
 
