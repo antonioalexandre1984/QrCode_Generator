@@ -6,14 +6,13 @@ John Virtual Card is a design of a virtual card for John Doe, a fictional charac
 
 These instructions will allow you to get a working copy of the project on your local machine for development and testing purposes.
 
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
+### 📋 Prerequisites
 
-### 📋 Pré-requisitos
-
-De que coisas você precisa para instalar o software e como instalá-lo?
+To run the application it is necessary to have the following software installed on the machine:
 
 ```
-Dar exemplos
+# Open a terminal and copy this repository with the command
+$ git clone (https://github.com/antonioalexandre1984/buzzvel.git)
 ```
 
 ## ⚙️ installation
