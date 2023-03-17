@@ -90,4 +90,4 @@ to guiding my work through the agile Scrum methodolog
 
 
 ---
-⌨️ com ❤️ por [Antonio Santos](https://gist.github.com/lohhans) 😊
+⌨️ with ❤️ for [Antonio Santos] 😊
