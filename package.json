@@ -1,0 +1,58 @@
+{
+  "name": "buzzvel",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "jest"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "file-saver": "^2.0.5",
+    "html-to-image": "^1.11.11",
+    "html2canvas": "^1.4.1",
+    "jest-environment-jsdom": "^29.5.0",
+    "jspdf": "^2.5.1",
+    "qrcode": "^1.5.1",
+    "qrcode.react": "^3.1.0",
+    "query-string": "^8.1.0",
+    "react": "^18.2.0",
+    "react-color": "^2.19.3",
+    "react-dom": "^18.2.0",
+    "react-dotenv": "^0.1.3",
+    "react-qr-code": "^2.0.11",
+    "react-qr-reader": "^3.0.0-beta-1",
+    "react-router-dom": "^6.9.0",
+    "ts-jest": "^29.0.5"
+  },
+  "devDependencies": {
+    "@swc/core": "^1.3.40",
+    "@swc/jest": "^0.2.24",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^14.0.0",
+    "@testing-library/user-event": "^14.4.3",
+    "@types/jest": "^29.5.0",
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "@vitejs/plugin-react": "^3.1.0",
+    "@vitest/coverage-c8": "^0.29.2",
+    "autoprefixer": "^10.4.14",
+    "jest": "^29.5.0",
+    "jsdo": "^4.3.12",
+    "jsdom": "^21.1.1",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.3",
+    "vite": "^4.1.0",
+    "vitest": "^0.29.2"
+  },
+  "react-dotenv": {
+    "whitelist": [
+      "API_URL"
+    ]
+  }
+}
