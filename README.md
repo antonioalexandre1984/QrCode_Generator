@@ -2,6 +2,11 @@
 
 John Virtual Card is a design of a virtual card for John Doe, a fictional character who is used to test the John Company's identification system.
 
+# introduction
+
+João is tired of using business cards for his business. He liked having a picture on
+his phone so that people scanning it could see all their data on one page.
+
 ## 🚀 Starting
 
 These instructions will allow you to get a working copy of the project on your local machine for development and testing purposes.
@@ -50,7 +55,7 @@ $ yarn test
 
 ### ⌨️ About coding style
 
-For the visual style of the project, we chose to use the tailwind css given its visual quality of the components and significant improvement in the amount of code produced.
+For the visual style of the project, we chose to use the [Tailwind](https://tailwindcss.com/) given its visual quality of the components and significant improvement in the amount of code produced.
 
 ## 📦 Project Online
 
