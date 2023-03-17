@@ -1,10 +1,10 @@
-# Título do projeto
+# John Virtual Card
 
-John Virtual Card é um projeto de um cartão virtual para o John Doe, um personagem fictício que é usado para testar o sistema de identificação da John Company.
+John Virtual Card is a design of a virtual card for John Doe, a fictional character who is used to test the John Company's identification system.
 
-## 🚀 Começando
+## 🚀 Starting
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+These instructions will allow you to get a working copy of the project on your local machine for development and testing purposes.
 
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
@@ -16,20 +16,22 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 Dar exemplos
 ```
 
-### 🔧 Instalação
-
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
-
+## ⚙️ Instalação
 ```
-Dar exemplos
+# Abra um terminal e copie este repositório com o comando
+$ git clone https://github.com/antonioalexandre1984/Ignite_CoffeeDelivery.git
 ```
 
-E repita:
-
 ```
-Até finalizar
+# Acesse a pasta da aplicação
+$ cd Ignite_CoffeeDelivery
+
+# Instale as dependências
+$ yarn
+
+# Inicie a aplicação
+$ yarn start
+
 ```
 
 Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
