@@ -67,7 +67,7 @@ https://alexqrcode.netlify.app/
 
 * [React](https://pt-br.reactjs.org/E).
 * [Typescrypt](https://www.typescriptlang.org/) - Language used
-* [Tailwind](https://tailwindcss.com/) - Usada para gerar RSS
+* [Tailwind](https://tailwindcss.com/) 
 
 ## 📌 Version
 
