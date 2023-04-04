@@ -14,12 +14,12 @@ These instructions will allow you to get a working copy of the project on your l
 ## ⚙️ installation
 ```
 # Open a terminal and copy this repository with the command
-$ git clone (https://github.com/antonioalexandre1984/buzzvel.git)
+$ git clone (https://github.com/antonioalexandre1984/QrCode_Generator.git)
 ```
 
 ```
 # Access the application folder
-$ cd buzzvel
+$ cd QrCode_Generator
 
 # install the dependencies
 $ yarn
@@ -43,7 +43,7 @@ About the tests we perform unit tests as described below.
 
 ```
 # Access the application folder
-$ cd buzzvel
+$ cd QrCode_Generator
 
 # install the dependencies
 $ yarn
