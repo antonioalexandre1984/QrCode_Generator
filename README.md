@@ -61,7 +61,7 @@ For the visual style of the project, we chose to use the [Tailwind](https://tail
 
 As suggested in the project. We publish the project online at the address below.
 
-https://buzzvel.netlify.app/
+https://alexqrcode.netlify.app/
 
 ## 🛠️ Built with
 
